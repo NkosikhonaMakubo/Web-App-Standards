@@ -24,3 +24,5 @@ Telemetry Portal MVC is a web application designed to manage and display project
    ```bash
    git clone https://github.com/your-username/CMPG-323-Project-3-12345678.git
    cd CMPG-323-Project-3-12345678
+[Link To Project](telemetryportalmvc20240826165003.azurewebsites.net)
+
