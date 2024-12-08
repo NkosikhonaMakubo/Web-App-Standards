@@ -1,4 +1,4 @@
-# CMPG-323-Project-3---32815069
+# Web App Standards
 ## Telemetry Portal MVC
 Telemetry Portal MVC is a web application designed to manage and display project and client data efficiently. The application leverages ASP.NET Core MVC and Entity Framework Core to interact with a database, providing a structured way to handle data operations through repositories.
 
